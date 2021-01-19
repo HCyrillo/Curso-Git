@@ -1,5 +1,5 @@
-# Curso-Git
-
+# treinamento_fundamentos
+## Curso Git
 ### Abaixo alguns dos principais comandos ensinados durante o curso
 
 

@@ -39,5 +39,4 @@ while opcoes != 0
         else
             puts 'Opção inválida!'
     end
-
 end
